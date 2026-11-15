@@ -3,20 +3,8 @@
   "variant": "controller",
   "game_file": "PlayerControllerBase.lua",
   "worker_name": "a",
-  "account_id": "d3e48d5a36a307438156883daa51c2a6",
+  "account_id": "807a162288aecb75491c4f64d37276b7",
   "url": "https://a.hamse.workers.dev/",
   "payload_name": "2.lua",
-  "marker": "-- Supplied hack feature implementation follows in its own scope.",
-  "original_bytes": 93926,
-  "original_zlib": {
-    "1": 22915,
-    "2": 22029,
-    "3": 21278,
-    "4": 19588,
-    "5": 18878,
-    "6": 18514,
-    "7": 18435,
-    "8": 18387,
-    "9": 18388
-  }
+  "marker": "-- Supplied hack feature implementation follows in its own scope."
 }
