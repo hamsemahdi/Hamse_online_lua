@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "masterahsan-lua",
+  "name": "a",
+  "account_id": "807a162288aecb75491c4f64d37276b7",
   "main": "cloudflare/worker.mjs",
   "compatibility_date": "2026-10-19",
   "workers_dev": true,

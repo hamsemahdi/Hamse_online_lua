@@ -1,0 +1,10 @@
+name = "a-hamse"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+SECRET = "HAMSE_CHEATS_VIP_2026_V1"
+
+[[kv_namespaces]]
+binding = "PAYLOAD"
+id = "e091bd99a00c42f2aca19686a44454ef"

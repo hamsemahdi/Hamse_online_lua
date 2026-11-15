@@ -3,53 +3,53 @@
   "output_bytes": 93731,
   "original_bytes": 93926,
   "raw_bytes_saved": 195,
-  "output_sha256": "e86ee530aa14647388755192f59ee1a60c9550598b5a78c15f0ff39f553f19bb",
-  "payload_bytes": 353709,
-  "payload_sha256": "9ca540976b819a0d0fe020ac60b39868e382df5ee8e46387341703fe5115caab",
+  "output_sha256": "e16979d8ab50e0574904a4cd6405a967069c312c4e50939294aefd6bca949392",
+  "payload_bytes": 401830,
+  "payload_sha256": "43712bd9304ad5c1acf1dc925db7fb5c8a00bde35e21b01d525d3c2a277484bd",
   "zlib": {
     "1": {
       "original": 22915,
-      "output": 25403,
+      "output": 25399,
       "fits_original": false
     },
     "2": {
       "original": 22029,
-      "output": 24261,
+      "output": 24259,
       "fits_original": false
     },
     "3": {
       "original": 21278,
-      "output": 23437,
+      "output": 23432,
       "fits_original": false
     },
     "4": {
       "original": 19588,
-      "output": 21659,
+      "output": 21657,
       "fits_original": false
     },
     "5": {
       "original": 18878,
-      "output": 20860,
+      "output": 20857,
       "fits_original": false
     },
     "6": {
       "original": 18514,
-      "output": 20483,
+      "output": 20481,
       "fits_original": false
     },
     "7": {
       "original": 18435,
-      "output": 20410,
+      "output": 20406,
       "fits_original": false
     },
     "8": {
       "original": 18387,
-      "output": 20375,
+      "output": 20373,
       "fits_original": false
     },
     "9": {
       "original": 18388,
-      "output": 20376,
+      "output": 20374,
       "fits_original": false
     }
   },

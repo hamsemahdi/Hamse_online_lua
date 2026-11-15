@@ -1,6 +1,7 @@
-import payload from "../online/2.lua";
-import { createHandler } from "./handler.mjs";
+import payload from '../online/2.lua';
+import { manifest } from './release-manifest.mjs';
+import { createHandler } from './handler.mjs';
 
-var worker_default = {
-  fetch: createHandler({ payload, manifest, primaryName: "2.lua" })
+export default {
+  fetch: createHandler({ payload, manifest, primaryName: "2.lua" }),
 };

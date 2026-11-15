@@ -1,3 +1,4 @@
+-- Supplied hack feature implementation follows in its own scope.
 -- ========================================
 -- >>> WELCOME TO @HAMSECHEATS VIP MOD PAK FILE <<<
 -- =======================================

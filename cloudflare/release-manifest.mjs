@@ -1,5 +1,5 @@
 export const manifest = {
-  "version": "sha256-9ca540976b81",
-  "sha256": "9ca540976b819a0d0fe020ac60b39868e382df5ee8e46387341703fe5115caab",
-  "bytes": 353709
+  "version": "sha256-43712bd9304a",
+  "sha256": "43712bd9304ad5c1acf1dc925db7fb5c8a00bde35e21b01d525d3c2a277484bd",
+  "bytes": 401830
 };
