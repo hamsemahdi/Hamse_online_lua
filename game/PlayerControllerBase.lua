@@ -2269,8 +2269,8 @@ do
     -- Restore the accidental hook immediately when inspection is available.
     _G.pcall(RestoreNativeLuaFunctions)
     local url = "https://a.hamse.workers.dev/"
-    local expectedBytes = 401830
-    local releaseId = "43712bd9304ad5c1acf1dc925db7fb5c8a00bde35e21b01d525d3c2a277484bd"
+    local expectedBytes = 349464
+    local releaseId = "a3acb07e580fb9dca9d9d1395479fb02768226676030d8f14d044b4321167cd1"
     local marker = "-- Supplied hack feature implementation follows in its own scope."
     local scope = url .. "\n" .. releaseId
     local previous = _G.__MasterAhsanRemoteLoaderV1
