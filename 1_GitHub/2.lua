@@ -575,7 +575,7 @@ g_vipserver_ESPLoadSettings()
 do
     local licenseScope
 local VIPLicenseConfig = {
-    url = 'https://zakpubg.skin/connect', game = 'BGMI',
+    url = 'https://hamse-license-server.hamsecheats.workers.dev', game = 'BGMI',
         -- Faster verification + resilient retries for weak/VPN networks.
         timeout = 18, retryCount = 3, retryDelay = 0.6, clockSkew = 120, expiryPath = nil,
         manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
